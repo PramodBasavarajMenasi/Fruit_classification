@@ -61,6 +61,4 @@ git clone https://github.com/PramodBasavarajMenasi/Fruit_classification.git/Frui
 ### Running the Project on Google Colab:
 You can run this project easily on Google Colab by clicking the following link:
 
-```bash
-https://colab.research.google.com/drive/1F3k-6fOUSzV-grNc5XJEAk1xg7ZaMguj?usp=sharing
-```
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1F3k-6fOUSzV-grNc5XJEAk1xg7ZaMguj?usp=sharing)
